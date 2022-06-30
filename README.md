@@ -11,7 +11,7 @@ The cookie-recipe website has been designed to aid in food preparation.By giving
 - JavaScript
 
 #### COde Snippet
-```
+```Html
  <section>
         <nav>
             <ul>

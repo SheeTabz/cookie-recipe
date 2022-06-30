@@ -9,3 +9,17 @@ The cookie-recipe website has been designed to aid in food preparation.By giving
 - html
 - css
 - JavaScript
+
+#### COde Snippet
+```
+ <section>
+        <nav>
+            <ul>
+                <li>Home</li>
+                <li>About</li>
+                <li>Catalogue</li>
+                <li>Sign in</li>
+            </ul>
+        </nav>
+    </section>
+```

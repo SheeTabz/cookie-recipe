@@ -25,3 +25,5 @@ The cookie-recipe website has been designed to aid in food preparation.By giving
 ```
 ### How to contribute to the projects
 - Create a new branch (`git checkout -b contribute`)
+ ### Contributers
+- [SheeTabz](https://github.com/SheeTabz)

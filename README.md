@@ -5,7 +5,7 @@ The cookie-recipe website has been designed to aid in food preparation.By giving
 <img src="https://image.shutterstock.com/image-vector/caprese-salad-recipe-step-by-260nw-1201271428.jpg" width="600px">
 <br>
 [Demo](https://image.shutterstock.com/image-vector/caprese-salad-recipe-step-by-260nw-1201271428.jpg)
-## Technologies Used
+## [Technologies Used](https://image.shutterstock.com/image-vector/caprese-salad-recipe-step-by-260nw-1201271428.jpg)
 - html
 - css
 - JavaScript

@@ -23,3 +23,5 @@ The cookie-recipe website has been designed to aid in food preparation.By giving
         </nav>
     </section>
 ```
+### How to contribute to the projects
+- Create a new branch (`git checkout -b contribute`)

@@ -26,4 +26,4 @@ The cookie-recipe website has been designed to aid in food preparation.By giving
 ### How to contribute to the projects
 - Create a new branch (`git checkout -b contribute`)
  ### Contributers
-- [<img src="https://image.shutterstock.com/image-vector/caprese-salad-recipe-step-by-260nw-1201271428.jpg" width="600px">](https://github.com/SheeTabz)
+- [<img src="https://image.shutterstock.com/image-vector/caprese-salad-recipe-step-by-260nw-1201271428.jpg" width="200px">](https://github.com/SheeTabz)
